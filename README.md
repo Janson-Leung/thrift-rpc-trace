@@ -3,7 +3,7 @@ Thrift 跨端调用链跟踪
 
 
 
-- ## Thrift-java的通信流程
+- #### Thrift的通信流程
 
 ![thrift-java](https://raw.githubusercontent.com/Janson-Leung/thrift-rpc-trace/master/thrift-java.jpg)
 
@@ -13,7 +13,7 @@ Thrift 跨端调用链跟踪
 
 
 
-- ## 协议改造
+- #### 协议改造
 
   #### Thrift消息格式
   
@@ -48,7 +48,11 @@ Thrift 跨端调用链跟踪
 
 
 
-- 最终链路
+- #### 最终链路
 
   ![jaeger](https://raw.githubusercontent.com/Janson-Leung/thrift-rpc-trace/master/jaeger.png)
+
+
+
+> 致谢方案作者  https://fredal.xin/hunter-with-thrift?tdsourcetag=s_pctim_aiomsg
 
