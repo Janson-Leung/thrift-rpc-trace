@@ -54,5 +54,3 @@ Thrift 跨端调用链跟踪
 
 
 
-> 致谢方案作者  https://fredal.xin/hunter-with-thrift?tdsourcetag=s_pctim_aiomsg
-
